@@ -4,11 +4,11 @@
 
 
 
-import datetime  # use import function  - see python built in functions.
+import datetime                       # use import function,python built in functions.
 
-today = datetime.datetime.today().weekday()   # define today
+today = datetime.datetime.today().weekday()        # define today/ weekday
 
-if today < 5:                      # 0 = Monday, 1 = Tuesday, ..., 4 = Friday ||| # 2 - IF statement.
+if today < 5:                                    # 0 = Monday, 1 = Tuesday, || # 2 - IF statement.
     print("Oh no, today is a weekday, sorry.")
 else:                                                           # else statement.
     print("Happy days, today is a weekend day.")
