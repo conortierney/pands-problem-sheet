@@ -1,4 +1,4 @@
-# pythonbank.py
+# bank.py
 # Author: Conor Tierney
 # weekly task 02
 
