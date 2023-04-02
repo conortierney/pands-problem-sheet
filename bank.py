@@ -2,7 +2,7 @@
 # Author: Conor Tierney
 # week 2 task
 # This program prompts the user to enter 2 money amounts (in cents)
-# Then add the 2 amounts and print out the the answer with a euro sign and ecimal point.
+# Then add the 2 amounts and print out the the answer with a euro sign and a decimal point.
 
 amt1 = int(input("enter amount1(in cents):"))               # read in an integer & print it out.
 print (f"the amount is {amt1}")
