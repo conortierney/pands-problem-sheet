@@ -1,6 +1,6 @@
 # week 7 task, es.py
 # Author: Conor Tierney.
-# This program reads th the text file 'count_es.txt' and outputs the number of e's it contains.
+# This program reads the text file 'count_es.txt' and outputs the number of e's it contains.
 # Program to get letter count in a text file.
 # Ref: www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
 # Ref: https://realpython.com/working-with-files-in-python/
