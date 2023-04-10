@@ -1,4 +1,5 @@
 # This program is called plottask.py 
+# Task week 8.
 # Author : Conor Tierney.
 # Ref: https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/
 # Ref: https://matplotlib.org/stable/plot_types/index.html
