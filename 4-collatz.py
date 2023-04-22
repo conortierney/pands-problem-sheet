@@ -12,19 +12,6 @@
 #ref: AUTOMATE THE BORING STUFF WITH PYTHON - flow control.
 
 
-#collatz.py
-# Week 4 task
-#Author : Conor Tierney.
-
-# This program asks the user to input a positive integer stored as "number".
-# at each stage of the loop, the program updates the number value based on whether it is even or odd.
-# if number is even, divide // n by 2.
-# if number is odd, x n by 3 and add 1.
-# when number becomes 1, the program ends.
-
-#ref: W3schools, realpython.com (whileloops), 
-#ref: AUTOMATE THE BORING STUFF WITH PYTHON - flow control.
-
 number = int(input("Please enter a positive number: "))          # ask user to enter a positive number
 
 while number < 1:                                                # while number is not a positive one.
