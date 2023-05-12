@@ -19,7 +19,7 @@
   8. plottask.py  
   
 * README.md file resource
-* Software:  
+* Software:  VSCode sofware is used to code the programs.  
 
 
 ### Description
@@ -29,7 +29,7 @@ The file here will explain the code, input and output for each task. It will als
 
 Most of my problem solving for the tasks was gained throught practicing python coding in Andrew Beatty's lectures and weekly labs.
 
-VSCode sofware is used to code the programs.  
+ 
 ___
 
 
